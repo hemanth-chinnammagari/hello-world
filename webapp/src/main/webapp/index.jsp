@@ -1,7 +1,7 @@
 <form action="action_page.php">
   <div class="container">
     <h1>AVATAR-3</h1>
-    <p>Please fill in this form to go to VIKRAMARKUDU MOVIE.</p>
+    <p>Please fill in this form to go to PS2 MOVIE.</p>
     <hr>
 
     <label for="email"><b>Email</b></label>
