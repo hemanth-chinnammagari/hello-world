@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>AVATAR-3</h1>
+    <h1>NOW EVERYTHING IS AUTOMATED INCLUDING PUSHING PULLING IMAGES USING USING CICD ANSIBLE DOCKER</h1>
     <p>Please fill in this form to go to TODAY AU BANK.</p>
     <hr>
 
